@@ -1,0 +1,3 @@
+"""
+MCP protocol implementation package.
+"""

@@ -1,0 +1,3 @@
+"""
+toast-mcp-server package.
+"""
